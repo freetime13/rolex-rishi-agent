@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rishi AI</string>
+    <string name="activate_assistant">Activate Rishi</string>
+    <string name="deactivate_assistant">Deactivate Rishi</string>
+    <string name="status_inactive">Status: Inactive</string>
+    <string name="status_active">Status: 🟢 Active</string>
+    <string name="permissions_header">System Permissions Check</string>
+</resources>
